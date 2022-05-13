@@ -14,6 +14,8 @@ sliding.png - 缺损块图
 
 sliding-captcha-test.py - 主程序
 
+requirements.txt - 相关依赖包
+
 # 项目思路
 
 详细解释请移步CSDN：https://blog.csdn.net/ysuprogrammer_li/article/details/124709997
